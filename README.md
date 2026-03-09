@@ -4,10 +4,10 @@ Ola, Sou o Matheus Henrique
 
 💻 Estudando JavaScript, HTML, CSS, C, CyberSecurity, Java
 
-<a href="https://github.com/matheushenrique122">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushenrique122&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushenrique122&layout=compact&langs_count=16&theme=dark"/>
-</a>
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheushenrique122&show_icons=true&theme=dark" alt="Status do GitHub" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheushenrique122&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
